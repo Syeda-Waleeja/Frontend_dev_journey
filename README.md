@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web Dev Journey
 
 A complete web development journey featuring projects, experiments, UI practice, animations, backend practice, and daily progress tracking.
@@ -113,3 +114,7 @@ This repository follows a structured learning approach:
 # 🔥 Long-Term Vision
 
 The aim of this journey is to continuously improve as a developer by focusing on consistency, organization, real-world practice, and continuous learning.
+=======
+# Frontend_dev_journey
+🚀 My frontend development journey — projects, practice, UI experiments, and continuous learning in modern web development.
+>>>>>>> 51298f275d97704342c002d96f1811ae4ed949fa
